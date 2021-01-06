@@ -11,6 +11,23 @@
 ---
 ![SunatP's github stats](https://github-readme-stats.vercel.app/api?username=SunatP&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunatP&layout=compact&theme=vue-dark)
+
+### Repository 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=aptX-enabler)](https://github.com/SunatP/aptX-enabler)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=RaspberryPI_Streaming)](https://github.com/SunatP/RaspberryPI_Streaming)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=ITCS498_Special_Topics_in_Computer_Science)](https://github.com/SunatP/ITCS498_Special_Topics_in_Computer_Science)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=Java)](https://github.com/SunatP/Java)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=BluetoothChat_App)](https://github.com/SunatP/BluetoothChat_App)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=ITCS443_Parallel)](https://github.com/SunatP/ITCS443_Parallel)
+
+
+
 <!--
 **SunatP/sunatp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
