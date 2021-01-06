@@ -18,7 +18,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&theme=vue&icon_color=5c6bc0&repo=RaspberryPI_Streaming)](https://github.com/SunatP/RaspberryPI_Streaming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=Simple_Chat&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/Simple_Chat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=Java&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/Java)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=BluetoothChat_App&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/BluetoothChat_App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=ITCS446_Embedded_System&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/ITCS446_Embedded_System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=ITCS443_Parallel&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/ITCS443_Parallel)
 
 <!--
