@@ -14,7 +14,7 @@
 
 ### Repository 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=aptX-enabler&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/aptX-enabler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=android_kernel_samsung_exynos5420&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/android_kernel_samsung_exynos5420)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&theme=vue&icon_color=5c6bc0&repo=RaspberryPI_Streaming)](https://github.com/SunatP/RaspberryPI_Streaming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=Simple_Chat&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/Simple_Chat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SunatP&repo=Java&theme=vue&icon_color=5c6bc0)](https://github.com/SunatP/Java)
